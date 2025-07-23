@@ -4,8 +4,6 @@ A React + TypeScript application for a seller dashboard that allows managing and
 
 ## Screenshots
 
-*(Here you would add screenshots of the running application)*
-
 **Product Listing View:**
 ![Product Listing](placeholder.jpg)
 
