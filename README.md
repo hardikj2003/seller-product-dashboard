@@ -9,6 +9,7 @@ A React + TypeScript application for a seller dashboard that allows managing and
 
 
 **Add Product Modal:**
+
 <img width="736" height="691" alt="Screenshot 2025-07-23 at 12 15 13 PM" src="https://github.com/user-attachments/assets/f689a4cd-1a7e-4e83-8ce0-f630b1160017" />
 
 ## Features Implemented
