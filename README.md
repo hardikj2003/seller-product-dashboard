@@ -5,11 +5,11 @@ A React + TypeScript application for a seller dashboard that allows managing and
 ## Screenshots
 
 **Product Listing View:**
-![Product Listing]<img width="1440" height="782" alt="Screenshot 2025-07-23 at 12 13 46 PM" src="https://github.com/user-attachments/assets/4af37f66-f614-474b-ae53-6ed5b00f905c" />
+<img width="1440" height="782" alt="Screenshot 2025-07-23 at 12 13 46 PM" src="https://github.com/user-attachments/assets/4af37f66-f614-474b-ae53-6ed5b00f905c" />
 
 
 **Add Product Modal:**
-![Add Product Modal] <img width="736" height="691" alt="Screenshot 2025-07-23 at 12 15 13 PM" src="https://github.com/user-attachments/assets/f689a4cd-1a7e-4e83-8ce0-f630b1160017" />
+<img width="736" height="691" alt="Screenshot 2025-07-23 at 12 15 13 PM" src="https://github.com/user-attachments/assets/f689a4cd-1a7e-4e83-8ce0-f630b1160017" />
 
 ## Features Implemented
 
