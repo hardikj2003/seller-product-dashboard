@@ -1,5 +1,3 @@
-// src/api/products.ts
-// src/api/products.ts
 import type { ProductsApiResponse } from "../types/index";
 const API_BASE_URL = "https://dummyjson.com";
 

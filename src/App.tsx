@@ -44,7 +44,6 @@ function App() {
           onClose={() => setIsModalOpen(false)}
           onAddProduct={(newProduct) => {
             addProduct(newProduct);
-            // Optionally add a success notification here
           }}
         />
       )}

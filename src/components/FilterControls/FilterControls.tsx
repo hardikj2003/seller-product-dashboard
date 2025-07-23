@@ -21,7 +21,7 @@ const FilterControls: React.FC<FilterControlsProps> = ({
   sortOrder,
   onAddNew,
 }) => {
-  // State now holds an array of Category objects
+
   const [categories, setCategories] = useState<Category[]>([]);
 
   useEffect(() => {
@@ -64,7 +64,6 @@ const FilterControls: React.FC<FilterControlsProps> = ({
           className={styles.categorySelect}
         >
           <option value="">All Categories</option>
-          {/* Correctly map over the array of category objects */}
           {categories.map((cat) => (
             <option key={cat.slug} value={cat.slug}>
               {cat.name}
