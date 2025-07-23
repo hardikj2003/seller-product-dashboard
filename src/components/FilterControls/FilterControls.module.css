@@ -1,0 +1,59 @@
+.controlsContainer {
+  padding: 1rem 2rem;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.filterGroup,
+.actionsGroup {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.searchInput,
+.categorySelect {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.searchInput {
+  min-width: 250px;
+}
+
+.sortButtons button,
+.addButton {
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.sortButtons button {
+  background-color: #ecf0f1;
+  color: #2c3e50;
+}
+
+.sortButtons button:hover {
+  background-color: #bdc3c7;
+}
+
+.addButton {
+  background-color: #3498db;
+  color: white;
+}
+
+.addButton:hover {
+  background-color: #2980b9;
+}
